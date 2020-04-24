@@ -1,0 +1,13 @@
+C:\Users\Оксана\source\repos\account\Account\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+C:\Users\Оксана\source\repos\account\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+C:\Users\Оксана\source\repos\account\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+C:\Users\Оксана\source\repos\account\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+C:\Users\Оксана\source\repos\account\Account\Account\bin\Debug\netcoreapp3.1\Account.exe
+C:\Users\Оксана\source\repos\account\Account\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+C:\Users\Оксана\source\repos\account\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+C:\Users\Оксана\source\repos\account\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+C:\Users\Оксана\source\repos\account\Account\Account\bin\Debug\netcoreapp3.1\Account.dll
+C:\Users\Оксана\source\repos\account\Account\Account\bin\Debug\netcoreapp3.1\Account.pdb
+C:\Users\Оксана\source\repos\account\Account\Account\obj\Debug\netcoreapp3.1\Account.dll
+C:\Users\Оксана\source\repos\account\Account\Account\obj\Debug\netcoreapp3.1\Account.pdb
+C:\Users\Оксана\source\repos\account\Account\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache
