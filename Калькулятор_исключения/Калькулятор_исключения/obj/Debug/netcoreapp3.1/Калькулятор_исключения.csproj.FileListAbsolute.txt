@@ -1,0 +1,16 @@
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\bin\Debug\netcoreapp3.1\Калькулятор_исключения.exe
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\obj\Debug\netcoreapp3.1\Калькулятор_исключения.csprojAssemblyReference.cache
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\obj\Debug\netcoreapp3.1\Калькулятор_исключения.AssemblyInfoInputs.cache
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\obj\Debug\netcoreapp3.1\Калькулятор_исключения.AssemblyInfo.cs
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\obj\Debug\netcoreapp3.1\Калькулятор_исключения.csproj.CopyComplete
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\bin\Debug\netcoreapp3.1\Калькулятор_исключения.deps.json
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\bin\Debug\netcoreapp3.1\Калькулятор_исключения.runtimeconfig.json
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\bin\Debug\netcoreapp3.1\Калькулятор_исключения.runtimeconfig.dev.json
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\bin\Debug\netcoreapp3.1\Калькулятор_исключения.dll
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\bin\Debug\netcoreapp3.1\Калькулятор_исключения.pdb
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\obj\Debug\netcoreapp3.1\Калькулятор_исключения.csproj.CoreCompileInputs.cache
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\obj\Debug\netcoreapp3.1\Калькулятор_исключения.dll
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\obj\Debug\netcoreapp3.1\Калькулятор_исключения.pdb
+C:\Users\Оксана\source\repos\Калькулятор_исключения\Калькулятор_исключения\obj\Debug\netcoreapp3.1\Калькулятор_исключения.genruntimeconfig.cache
