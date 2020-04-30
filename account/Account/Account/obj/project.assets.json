@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Оксана\\source\\repos\\account\\Account\\Account\\Account.csproj",
+      "projectUniqueName": "E:\\Klassu\\Klassu\\account\\Account\\Account\\Account.csproj",
       "projectName": "Account",
-      "projectPath": "C:\\Users\\Оксана\\source\\repos\\account\\Account\\Account\\Account.csproj",
+      "projectPath": "E:\\Klassu\\Klassu\\account\\Account\\Account\\Account.csproj",
       "packagesPath": "C:\\Users\\Оксана\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Оксана\\source\\repos\\account\\Account\\Account\\obj\\",
+      "outputPath": "E:\\Klassu\\Klassu\\account\\Account\\Account\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Оксана\\AppData\\Roaming\\NuGet\\NuGet.Config",

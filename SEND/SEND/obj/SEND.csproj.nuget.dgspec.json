@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Оксана\\source\\repos\\SEND\\SEND\\SEND.csproj": {}
+    "E:\\Klassu\\Klassu\\SEND\\SEND\\SEND.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Оксана\\source\\repos\\SEND\\SEND\\SEND.csproj": {
+    "E:\\Klassu\\Klassu\\SEND\\SEND\\SEND.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Оксана\\source\\repos\\SEND\\SEND\\SEND.csproj",
+        "projectUniqueName": "E:\\Klassu\\Klassu\\SEND\\SEND\\SEND.csproj",
         "projectName": "SEND",
-        "projectPath": "C:\\Users\\Оксана\\source\\repos\\SEND\\SEND\\SEND.csproj",
+        "projectPath": "E:\\Klassu\\Klassu\\SEND\\SEND\\SEND.csproj",
         "packagesPath": "C:\\Users\\Оксана\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Оксана\\source\\repos\\SEND\\SEND\\obj\\",
+        "outputPath": "E:\\Klassu\\Klassu\\SEND\\SEND\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Оксана\\AppData\\Roaming\\NuGet\\NuGet.Config",

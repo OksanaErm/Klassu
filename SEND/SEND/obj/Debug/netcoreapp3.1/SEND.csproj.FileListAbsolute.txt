@@ -1,0 +1,13 @@
+E:\Klassu\Klassu\SEND\SEND\bin\Debug\netcoreapp3.1\SEND.exe
+E:\Klassu\Klassu\SEND\SEND\bin\Debug\netcoreapp3.1\SEND.deps.json
+E:\Klassu\Klassu\SEND\SEND\bin\Debug\netcoreapp3.1\SEND.runtimeconfig.json
+E:\Klassu\Klassu\SEND\SEND\bin\Debug\netcoreapp3.1\SEND.runtimeconfig.dev.json
+E:\Klassu\Klassu\SEND\SEND\bin\Debug\netcoreapp3.1\SEND.dll
+E:\Klassu\Klassu\SEND\SEND\bin\Debug\netcoreapp3.1\SEND.pdb
+E:\Klassu\Klassu\SEND\SEND\obj\Debug\netcoreapp3.1\SEND.csprojAssemblyReference.cache
+E:\Klassu\Klassu\SEND\SEND\obj\Debug\netcoreapp3.1\SEND.csproj.CoreCompileInputs.cache
+E:\Klassu\Klassu\SEND\SEND\obj\Debug\netcoreapp3.1\SEND.AssemblyInfoInputs.cache
+E:\Klassu\Klassu\SEND\SEND\obj\Debug\netcoreapp3.1\SEND.AssemblyInfo.cs
+E:\Klassu\Klassu\SEND\SEND\obj\Debug\netcoreapp3.1\SEND.dll
+E:\Klassu\Klassu\SEND\SEND\obj\Debug\netcoreapp3.1\SEND.pdb
+E:\Klassu\Klassu\SEND\SEND\obj\Debug\netcoreapp3.1\SEND.genruntimeconfig.cache
