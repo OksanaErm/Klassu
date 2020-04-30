@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEND", "SEND\SEND.csproj", "{C40A781D-F9E1-482F-BB6D-C17FB59A0612}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEND", "SEND\SEND.csproj", "{C40A781D-F9E1-482F-BB6D-C17FB59A0612}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{353117A4-3173-45B7-A73F-941F2A5D9E1C}"
+	ProjectSection(SolutionItems) = preProject
+		Class2.cs = Class2.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

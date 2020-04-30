@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Оксана\\source\\repos\\Калькулятор_исключения\\Калькулятор_исключения\\Калькулятор_исключения.csproj": {}
+    "E:\\Klassu\\Klassu\\Калькулятор_исключения\\Калькулятор_исключения\\Калькулятор_исключения.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Оксана\\source\\repos\\Калькулятор_исключения\\Калькулятор_исключения\\Калькулятор_исключения.csproj": {
+    "E:\\Klassu\\Klassu\\Калькулятор_исключения\\Калькулятор_исключения\\Калькулятор_исключения.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Оксана\\source\\repos\\Калькулятор_исключения\\Калькулятор_исключения\\Калькулятор_исключения.csproj",
+        "projectUniqueName": "E:\\Klassu\\Klassu\\Калькулятор_исключения\\Калькулятор_исключения\\Калькулятор_исключения.csproj",
         "projectName": "Калькулятор_исключения",
-        "projectPath": "C:\\Users\\Оксана\\source\\repos\\Калькулятор_исключения\\Калькулятор_исключения\\Калькулятор_исключения.csproj",
+        "projectPath": "E:\\Klassu\\Klassu\\Калькулятор_исключения\\Калькулятор_исключения\\Калькулятор_исключения.csproj",
         "packagesPath": "C:\\Users\\Оксана\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Оксана\\source\\repos\\Калькулятор_исключения\\Калькулятор_исключения\\obj\\",
+        "outputPath": "E:\\Klassu\\Klassu\\Калькулятор_исключения\\Калькулятор_исключения\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Оксана\\AppData\\Roaming\\NuGet\\NuGet.Config",

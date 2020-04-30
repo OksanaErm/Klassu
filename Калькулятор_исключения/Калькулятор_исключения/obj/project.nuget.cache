@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R8n4USjh/q7zcRD/l9eXXohxf0tJgpYzBCEjx3I+NzFnTf3aupR7/eXgK0r9ks6GSqv395XnywdSFqCL2Txebw==",
+  "dgSpecHash": "kJvpre4XtBK2KBNVtsE/8mXbf8icmJ/d9go+H/irkjZ3mrSB79XKmyLTK4J9VE+qW1Zxc4xlF2kRonAAS0Ywrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Оксана\\source\\repos\\Калькулятор_исключения\\Калькулятор_исключения\\Калькулятор_исключения.csproj",
+  "projectFilePath": "E:\\Klassu\\Klassu\\Калькулятор_исключения\\Калькулятор_исключения\\Калькулятор_исключения.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Оксана\\.nuget\\packages\\nlog\\4.7.0\\nlog.4.7.0.nupkg.sha512",
     "C:\\Users\\Оксана\\.nuget\\packages\\nlog.config\\4.7.0\\nlog.config.4.7.0.nupkg.sha512",
